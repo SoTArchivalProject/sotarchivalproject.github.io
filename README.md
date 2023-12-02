@@ -23,10 +23,10 @@ All rights reserved by Games Workshop & the Black Library
     - 本站转载
 - 《首墙之危》The First Wall <sub>Gav Thorpe, 2020</sub>
     - [b站专栏](https://www.bilibili.com/read/readlist/rl294986)
-    - epub
     - 本站转载
 - 《月神之子》Sons of the Selenar <sub>Graham McNeill, 2020</sub>
     - [b站专栏](https://www.bilibili.com/read/cv6278497/)
+    - epub
     - 本站转载
 - 《萨特奈恩》Saturnine <sub>Dan Abnett, 2020</sub>
     - [b站专栏](https://www.bilibili.com/read/readlist/rl499081)
