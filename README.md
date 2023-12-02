@@ -19,15 +19,15 @@ All rights reserved by Games Workshop & the Black Library
     - [本站转载](/TheSolarWar/TheSolarWarIndex.md)
 - 《迷失之人与受诅咒者》The Lost and the Damned <sub>Guy Haley, 2019</sub>
     - [b站专栏](https://www.bilibili.com/read/readlist/rl148429)
-    - epub
-    - 本站转载
+    - [epub](TheLostAndTheDamned/The%20Lost%20and%20the%20Damned-CN.epub)
+    - [本站转载](/TheLostAndTheDamned/TheLostAndTheDamnedIndex.md)
 - 《首墙之危》The First Wall <sub>Gav Thorpe, 2020</sub>
     - [b站专栏](https://www.bilibili.com/read/readlist/rl294986)
     - 本站转载
 - 《月神之子》Sons of the Selenar <sub>Graham McNeill, 2020</sub>
     - [b站专栏](https://www.bilibili.com/read/cv6278497/)
-    - epub
-    - 本站转载
+    - [epub](/SonsOfTheSelenar/Sons%20of%20the%20Selenar-CN.epub)
+    - [本站转载](/SonsOfTheSelenar/SonsOfTheSelenarIndex.md)
 - 《萨特奈恩》Saturnine <sub>Dan Abnett, 2020</sub>
     - [b站专栏](https://www.bilibili.com/read/readlist/rl499081)
     - 本站转载
