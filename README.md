@@ -7,7 +7,7 @@ All rights reserved by Games Workshop & the Black Library
 
 我们建立这一处网页，以作备份用途。倘若有一天b站倒闭了，那么我们希望这一处简陋的网页仍能为后来的爱好者提供一份参考。
 
-**所有翻译皆为非盈利目的，仅供爱好者交流使用，请勿商用**。原小说版权归属Games Workshop及the Black Library所有。
+**所有翻译皆为非盈利目的，仅供爱好者交流使用，请勿商用。原小说版权归属Games Workshop及the Black Library所有。**
 
 ---
 
@@ -15,8 +15,8 @@ All rights reserved by Games Workshop & the Black Library
 
 - 《太阳战争》The Solar War <sub>John French, 2019</sub>
     - [b站专栏](https://www.bilibili.com/read/readlist/rl128437)
-    - epub
-    - 本站转载
+    - [epub](/TheSolarWar/The%20Solar%20War-CN.epub)
+    - [本站转载](/TheSolarWar/TheSolarWarIndex.md)
 - 《迷失之人与受诅咒者》The Lost and the Damned <sub>Guy Haley, 2019</sub>
     - [b站专栏](https://www.bilibili.com/read/readlist/rl148429)
     - epub
