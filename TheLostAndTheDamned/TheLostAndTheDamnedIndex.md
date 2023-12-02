@@ -1,4 +1,4 @@
-# 迷失之人与受诅咒者
+# 迷失之人与受诅咒者 The Lost and the Damned
 
 Guy Haley 著；泰拉围城翻译庭 译。
 
