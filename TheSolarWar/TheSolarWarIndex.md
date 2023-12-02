@@ -36,4 +36,4 @@ John French 著；泰拉围城翻译庭 译。
 - 尾声
 - 后记
 
-下一部：《迷失之人与受诅咒者》
+下一部：[《迷失之人与受诅咒者》](/../TheLostAndTheDamned/TheLostAndTheDamnedIndex.md)
