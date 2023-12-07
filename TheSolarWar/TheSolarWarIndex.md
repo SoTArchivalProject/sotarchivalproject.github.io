@@ -2,6 +2,8 @@
 
 John French 著；泰拉围城翻译庭 译。
 
+epub version: [参见此处](The%20Solar%20War-CN.epub)
+
 <div align="center">
 <h1>目录</h1>
 </div>
