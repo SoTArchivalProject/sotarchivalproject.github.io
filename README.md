@@ -25,7 +25,9 @@ Please contact us at sotarchivalproject@gmail.com should you have further questi
 
 ---
 
-本站收录泰拉围城 \(Siege of Terra\) 系列小说翻译。按出版时间（亦即故事里发生时间）顺序，排列如下：
+本站收录泰拉围城 \(Siege of Terra\) 系列小说翻译。按出版时间（亦即故事里发生时间）顺序，排列如下。
+
+翻译搬运进行中，目前倘若存在“本站转载”部分点不进去，是正常现象，请稍安勿躁。
 
 - 《太阳战争》The Solar War <sub>John French, 2019</sub>
     - [epub](/TheSolarWar/The%20Solar%20War-CN.epub)
