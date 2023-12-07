@@ -1,48 +1,53 @@
-# The Siege of Terra Archival Project
-Archive for Siege of Terra Simplified Chinese translations, **non-official, non-profit, not for commercial use**.
+# 泰拉围城存档计划 The Siege of Terra Archival Project
 
-All rights reserved by Games Workshop & the Black Library
+Archive for Siege of Terra Simplified Chinese translations, **fan-based, non-profit, PROHIBITED FROM ANY COMMERCIAL USE**.
 
-欢迎来访，这里是泰拉围城翻译庭，b站[@泰拉围城翻译庭](https://space.bilibili.com/450614692)的翻译备份。
+**All rights reserved by Games Workshop (GW) & the Black Library (BL).** 
 
-我们建立这一处网页，以作备份用途。倘若有一天b站倒闭了，那么我们希望这一处简陋的网页仍能为后来的爱好者提供一份参考。
+This site and all fan-based translations on it are intended for fan discussions only. We will have contents removed upon official request from GW/BL. 
+We **WILL NOT** make any charges to the contents, and we **DO NOT** accept any donations.
 
-**所有翻译皆为非盈利目的，仅供爱好者交流使用，请勿商用。原小说版权归属Games Workshop及the Black Library所有。**
+Please contact us at sotarchivalproject@gmail.com should you have further questions.
+
+<br><br/>
+
+欢迎来访，这里是泰拉围城翻译庭，b站 泰拉围城翻译庭 的翻译备份。
+
+我们建立这一处网页，以作备份用途。倘若有一天b站倒闭，或是挨了版权官司，那么我们希望这一处简陋的网页仍能为后来的爱好者提供一份参考。
+毕竟，在面对官方潜在版权炮时，一个独立建站、又不牵涉任何经济往来的网站，远比b站一个存在潜在盈利可能的商业网站更好自证清白、更为安全。
+
+所有翻译及网站维护皆为纯用爱发电，我们不接受捐赠、更不会以此盈利一分钱。
+
+**所有翻译皆为非盈利目的，仅供爱好者交流学习使用，请勿商用。原小说版权归属Games Workshop及the Black Library所有。** 
+若版权方要求，我们会应版权方要求移除部分内容。
+
+请尽量避免将本站暴露于官方视野之下。互联网精神的火苗已经微弱，但还没有死去。请保护好它。
 
 ---
 
 本站收录泰拉围城 \(Siege of Terra\) 系列小说翻译。按出版时间（亦即故事里发生时间）顺序，排列如下：
 
 - 《太阳战争》The Solar War <sub>John French, 2019</sub>
-    - [b站专栏](https://www.bilibili.com/read/readlist/rl128437)
     - [epub](/TheSolarWar/The%20Solar%20War-CN.epub)
     - [本站转载](/TheSolarWar/TheSolarWarIndex.md)
 - 《迷失之人与受诅咒者》The Lost and the Damned <sub>Guy Haley, 2019</sub>
-    - [b站专栏](https://www.bilibili.com/read/readlist/rl148429)
     - [epub](TheLostAndTheDamned/The%20Lost%20and%20the%20Damned-CN.epub)
     - [本站转载](/TheLostAndTheDamned/TheLostAndTheDamnedIndex.md)
 - 《首墙之危》The First Wall <sub>Gav Thorpe, 2020</sub>
-    - [b站专栏](https://www.bilibili.com/read/readlist/rl294986)
     - 本站转载
 - 《月神之子》Sons of the Selenar <sub>Graham McNeill, 2020</sub>
-    - [b站专栏](https://www.bilibili.com/read/cv6278497/)
     - [epub](/SonsOfTheSelenar/Sons%20of%20the%20Selenar-CN.epub)
     - [本站转载](/SonsOfTheSelenar/SonsOfTheSelenarIndex.md)
 - 《萨特奈恩》Saturnine <sub>Dan Abnett, 2020</sub>
-    - [b站专栏](https://www.bilibili.com/read/readlist/rl499081)
     - 本站转载
 - 《马格努斯之怒》The Fury of Magnus <sub>Graham McNeill, 2020</sub>
-    - [b站专栏](https://www.bilibili.com/read/cv11447209/)
     - 本站转载
 - 《死颅》Mortis <sub>John French, 2021</sub>
-    - [b站专栏](https://www.bilibili.com/read/readlist/rl653427)
     - 本站转载
 - 《战鹰》Warhawk <sub>Chris Wraight, 2021</sub>
-    - [b站专栏](https://www.bilibili.com/read/readlist/rl740234)
     - 本站转载
 - 《永恒回响》Echos of Eternity <sub>Aaron Dembski-Bowden, 2022</sub>
 - 《伽罗：灰衣骑士》Garro: Knight of Grey <sub>James Swallow, 2023</sub>
-    - [b站专栏](https://www.bilibili.com/read/cv24255527)
     - 本站转载
 - 《终结与死亡 1》The End and the Death I <sub>Dan Abnett, 2023</sub>
 - 《终结与死亡 2》The End and the Death II <sub>Dan Abnett, 2023</sub>
@@ -50,5 +55,4 @@ All rights reserved by Games Workshop & the Black Library
 
 另有一则不属于泰拉围城系列，但与该系列密切联系的小说：
 - 《瓦尔多：帝国之初》Valdor: Birth of the Empire
-    - [b站专栏](https://www.bilibili.com/read/readlist/rl386426)
     - 本站转载
