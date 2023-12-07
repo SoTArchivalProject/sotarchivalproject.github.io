@@ -2,8 +2,6 @@
 
 John French 著；泰拉围城翻译庭 译。
 
-原译文参见[b站专栏](https://www.bilibili.com/read/readlist/rl128437)
-
 <div align="center">
 <h1>目录</h1>
 </div>
