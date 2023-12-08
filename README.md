@@ -1,6 +1,6 @@
 # 泰拉围城存档计划 The Siege of Terra Archival Project
 
-Archive for Siege of Terra Simplified Chinese translations, **fan-based, non-profit, PROHIBITED FROM ANY COMMERCIAL USE**.
+Archive for Siege of Terra fan-based Simplified Chinese translations, **fan-based, non-official, non-profit, PROHIBITED FROM ANY COMMERCIAL USE**.
 
 **All rights reserved by Games Workshop (GW) & the Black Library (BL).** 
 
