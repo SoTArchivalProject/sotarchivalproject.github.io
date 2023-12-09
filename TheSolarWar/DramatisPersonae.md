@@ -166,7 +166,7 @@ Ignis, Master of the Order of Ruin
 
 Menkaura, Blind Prophet of the Corvidae
 
-曼卡乌拉尔，黑鸦学派的盲眼先知
+门卡乌拉，黑鸦学派的盲眼先知
 
 <br/><br/>
 
