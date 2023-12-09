@@ -1,5 +1,5 @@
 <div align="center">
-<h1><a href="TheSolarWarIndex.md">太阳战争 The Solar War</a></h1>
+<h1><a href="/TheSolarWarIndex.md">太阳战争 The Solar War</a></h1>
 </div>
 
 <div align="center">
@@ -101,8 +101,8 @@
 <div align="center">
 <table>
   <tr>
-    <th>上一章：<a href="DramatisPersonae.md">出场人物</a></th>
-    <th><a href="TheSolarWarIndex.md">目录</a></th>
+    <th>上一章：<a href="/DramatisPersonae.md">出场人物</a></th>
+    <th><a href="/TheSolarWarIndex.md">目录</a></th>
     <th>下一章：第一章</th>
   </tr>
 </table>
