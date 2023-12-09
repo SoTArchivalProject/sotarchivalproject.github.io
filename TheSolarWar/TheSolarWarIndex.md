@@ -9,7 +9,7 @@ epub version: [参见此处](The%20Solar%20War-CN.epub)
 </div>
 
 - [出场人物](DramatisPersonae.md)
-- The Warp
+- [亚空间](TheWarp1.md)
 - 第一章
 - 第二章
 - 第三章
@@ -21,7 +21,7 @@ epub version: [参见此处](The%20Solar%20War-CN.epub)
 - 第九章
 - 第十章
 - 第十一章
-- The Warp 2
+- 亚空间 2
 - 第十二章
 - 第十三章
 - 第十四章
