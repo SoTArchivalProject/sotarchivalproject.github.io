@@ -55,6 +55,6 @@ Please contact us at sotarchivalproject@gmail.com should you have further questi
 - 《终结与死亡 2》The End and the Death II <sub>Dan Abnett, 2023</sub>
 - 《终结与死亡 3》The End and the Death III <sub>Dan Abnett, TBD</sub>
 
-另有一则不属于泰拉围城系列，但与该系列密切联系的小说：
+另有一则不属于泰拉围城系列，但与该系列密切联系的小说，我们亦计划将其收录于此：
 - 《瓦尔多：帝国之初》Valdor: Birth of the Empire
     - 本站转载
