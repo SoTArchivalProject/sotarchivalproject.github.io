@@ -1,5 +1,5 @@
 <div align="center">
-<h1><a href="TheSolarWarIndex.md">太阳战争 The Solar War</a></h1>
+<h1><a href="TheSolarWarIndex.html">太阳战争 The Solar War</a></h1>
 </div>
 
 ## 出场人物 Dramatis Personae
@@ -298,8 +298,8 @@ Aksinya, Lifeward to Cadmus Vek
 <table>
   <tr>
     <th>上一章：无</th>
-    <th><a href="TheSolarWarIndex.md">目录</a></th>
-    <th>下一章：<a href="TheWarp1.md">亚空间</a></th>
+    <th><a href="TheSolarWarIndex.html">目录</a></th>
+    <th>下一章：<a href="TheWarp1.html">亚空间</a></th>
   </tr>
 </table>
 </div>
