@@ -295,8 +295,11 @@ Aksinya, Lifeward to Cadmus Vek
 <br/><br/>
 
 <div align="center">
-  
-| 上一章：无 | [目录](TheSolarWarIndex.md) | 下一章：[亚空间](TheWarp1.md) |
-| --- | --- | --- |
-
+<table>
+  <tr>
+    <th>上一章：无</th>
+    <th><a href="TheSolarWarIndex.md">目录</a></th>
+    <th>下一章：<a href="TheWarp1.md">亚空间</a></th>
+  </tr>
+</table>
 </div>
