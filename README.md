@@ -7,14 +7,14 @@ Archive for **fan-based** Siege of Terra Simplified Chinese translations, **non-
 This site and all fan-based translations on it are intended for fan discussions only. We will have contents removed upon official request from GW/BL. 
 We **WILL NOT** make any charges to the contents, and we **DO NOT** accept any donations.
 
-Please contact us through github issues of this repository should you have further questions.
+Please contact us through GitHub issues of this repository should you have further questions.
 
 <br><br/>
 
 欢迎来访，这里是泰拉围城翻译庭。
 
 我们建立这一处网页，以作备份用途。倘若有一天阿b倒闭，或是挨了版权官司，那么我们希望这一处简陋的网页仍能为后来的爱好者提供一份参考。
-毕竟，在面对官方潜在版权炮时，一个独立建站、又不牵涉任何经济往来的网站，远比阿b一个存在潜在盈利可能的商业网站更好自证清白、更为安全。
+毕竟，在面对官方潜在版权炮时，一个独立建站、又不牵涉任何经济往来的网站，远比阿b一个存在潜在盈利可能的商业网站 -- 尽管我们承诺不开任何盈利渠道 -- 更好自证清白、更为安全。
 
 所有翻译及网站维护皆为纯用爱发电，我们不接受捐赠、更不会以此盈利一分钱。
 
@@ -25,7 +25,7 @@ Please contact us through github issues of this repository should you have furth
 
 ---
 
-本站收录泰拉围城 \(Siege of Terra\) 系列小说翻译。按出版时间（亦即故事里发生时间）顺序，排列如下。
+本站收录泰拉围城系列小说翻译。按出版时间（亦即故事里发生时间）顺序，排列如下。
 
 翻译搬运进行中，目前倘若存在“本站转载”部分点不进去，是正常现象，请稍安勿躁。
 
