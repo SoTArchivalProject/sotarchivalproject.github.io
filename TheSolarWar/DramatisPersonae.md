@@ -300,5 +300,3 @@ Aksinya, Lifeward to Cadmus Vek
 | --- | --- | --- |
 
 </div>
-
-- 下一章
