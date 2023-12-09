@@ -5,9 +5,9 @@
 <div align="center">
 <i>
   “那是我所爱的家园，若我曾流浪，
-  
+  <br>
   也似游子归来，回到故乡；
-  
+  <br>
   如期而至，并未随时光而变样。”
 </i>
 </div>
@@ -23,7 +23,7 @@
 
 <div align="center">
 <sub>译：Ril.Argot whiteroc</sub>
-
+<br>
 <sub>校：黑军克星斯派尔</sub>
 </div>
 
@@ -99,8 +99,11 @@
 <br><br/>
 
 <div align="center">
-  
-| 上一章：[出场人物](DramatisPersonae.md) | [目录](TheSolarWarIndex.md) | 下一章：第一章 |
-|--- | --- | --- |
-
+<table>
+  <tr>
+    <th>上一章：<a href="DramatisPersonae.md">出场人物</a></th>
+    <th><a href="TheSolarWarIndex.md">目录</a></th>
+    <th>下一章：第一章</th>
+  </tr>
+</table>
 </div>
