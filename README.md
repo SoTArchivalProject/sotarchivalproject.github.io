@@ -7,7 +7,7 @@ Archive for Siege of Terra Simplified Chinese translations, **fan-based, non-off
 This site and all fan-based translations on it are intended for fan discussions only. We will have contents removed upon official request from GW/BL. 
 We **WILL NOT** make any charges to the contents, and we **DO NOT** accept any donations.
 
-Please contact us at sotarchivalproject@gmail.com should you have further questions.
+Please contact us through github issues of this repository should you have further questions.
 
 <br><br/>
 
