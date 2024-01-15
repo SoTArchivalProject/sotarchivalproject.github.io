@@ -45,7 +45,7 @@ Please contact us through GitHub issues of this repository should you have furth
 - 《马格努斯之怒》The Fury of Magnus <sub>Graham McNeill, 2020</sub>
     - 本站转载
 - 《死颅》Mortis <sub>John French, 2021</sub>
-    - 本站转载
+    - [本站转载](/Mortis/MortisIndex.md)
 - 《战鹰》Warhawk <sub>Chris Wraight, 2021</sub>
     - 本站转载
 - 《永恒回响》Echos of Eternity <sub>Aaron Dembski-Bowden, 2022</sub>
