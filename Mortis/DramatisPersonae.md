@@ -1,13 +1,9 @@
-# 死颅 Mortis
-
-本文译自**Mortis**, John French 著，泰拉围城翻译庭 译，斯派尔 校；
-
-初发布于b站 cv20733328
-
----
 <div align="center">
-<h1>登场人物 Dramatis Personae</h1>
+<h1><a href="MortisIndex.html">死颅 Mortis</a></h1>
 </div>
+
+
+## 登场人物 Dramatis Personae
 
 帝皇，人类之主，帝国的始皇与末帝
 
