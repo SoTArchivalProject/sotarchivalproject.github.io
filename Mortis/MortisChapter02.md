@@ -17,7 +17,7 @@
 </div>
 
 <div align="center">
-过白炽之焰
+白炽之焰
 </div>
 
 <br/><br/>
