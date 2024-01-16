@@ -69,7 +69,7 @@
 
 烈焰军团“火蜂”
 
-塞顿，总机长，*无上专横<sup>2</sup>*，第一分队队长
+塞顿，总机长，*无上专横<sup>[2](#Mortis-dp2)</sup>*，第一分队队长 <a name="Mortis-dp2a"></a>
 
 巴萨纽斯，高阶机长，*滔天烈焰<sup>3</sup>*，第二分队队长
 
@@ -202,7 +202,7 @@
 ---
 1 <a name="Mortis-dp1"></a> Vassago：瓦沙克，所罗门王七十二柱魔神之一，此魔心地善良，职责是宣告过去与未来，寻找一切隐藏与失落的事物.<sup>[\[^\]](#Mortis-dp1a)</sup>
 
-2 Imperious Prima：拉丁文，Imperious 意为 Domineering（专横跋扈）。
+2 <a name="Mortis-dp2"></a> Imperious Prima：拉丁文，Imperious 意为 Domineering（专横跋扈）。<sup>[\[^\]](#Mortis-dp2a)</sup>
 
 3 Magnificum Incendius：拉丁文，Magnificum 意为 Grand（宏大），Incendius 意为 Burning（燃烧）。
 
