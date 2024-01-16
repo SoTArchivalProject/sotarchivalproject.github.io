@@ -9,7 +9,7 @@
 <br/><br/>
 
 <div align="center">
-<i>未计之时 <sup>[27](#Mortis-c03-027)</sup>-未知之地</i> <a name="Mortis-c03-027"></a>
+未计之时 <sup>[27](#Mortis-c03-027)</sup>-未知之地 <a name="Mortis-c03-027"></a>
 </div>
 
 <div align="center">
