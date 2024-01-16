@@ -8,9 +8,7 @@
 
 <br/><br/>
 
-<div align="center">
 未计之时 <sup>[27](#Mortis-c03-027)</sup>-未知之地 <a name="Mortis-c03-027"></a>
-</div>
 
 <div align="center">
 监军
