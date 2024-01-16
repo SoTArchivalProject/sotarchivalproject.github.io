@@ -29,7 +29,7 @@
 
 阿多斐尔，虚空指挥官，战团长
 
-瓦沙克<sup>[1](#Mortis-dp1)</sup>，智库 <a name="Mortis-dp1a"></a>
+瓦沙克<sup>[1](#Mortis-dp-001)</sup>，智库 <a name="Mortis-dp-001a"></a>
 
 特拉甘，第九修会连长
 
@@ -200,7 +200,7 @@
 卡特
 
 ---
-1 <a name="Mortis-dp1"></a> Vassago：瓦沙克，所罗门王七十二柱魔神之一，此魔心地善良，职责是宣告过去与未来，寻找一切隐藏与失落的事物.<sup>[\[^\]](#Mortis-dp1a)</sup>
+1 <a name="Mortis-dp-001"></a> Vassago：瓦沙克，所罗门王七十二柱魔神之一，此魔心地善良，职责是宣告过去与未来，寻找一切隐藏与失落的事物.<sup>[\[^\]](#Mortis-dp-001a)</sup>
 
 2 <a name="Mortis-dp2"></a> Imperious Prima：拉丁文，Imperious 意为 Domineering（专横跋扈）。<sup>[\[^\]](#Mortis-dp2a)</sup>
 
