@@ -396,4 +396,4 @@
 
 25 <a name="Mortis-c02-025"></a> Tulcan：图尔坎，现实中是厄瓜多尔的一座城市。<sup>[\[^\]](#Mortis-c02-025a)</sup>
 
-26 <a name="Morrtis-c02-026"></a> Arbitrator：执法官，或译为仲裁官，是帝国法务部的武装执法人员。 <sup>[\[^\]](#Mortis-c02-026a)</sup>
+26 <a name="Mortis-c02-026"></a> Arbitrator：执法官，或译为仲裁官，是帝国法务部的武装执法人员。 <sup>[\[^\]](#Mortis-c02-026a)</sup>
