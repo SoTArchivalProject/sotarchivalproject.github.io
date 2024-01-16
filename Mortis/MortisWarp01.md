@@ -1,4 +1,4 @@
-![image](https://github.com/SoTArchivalProject/sotarchivalproject.github.io/assets/99713050/3515d3d5-0b37-49c5-901a-b2898e7c4fc0)<div align="center">
+<div align="center">
 <h1><a href="MortisIndex.html">死颅 Mortis</a></h1>
 </div>
 
