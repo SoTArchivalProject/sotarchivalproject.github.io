@@ -71,11 +71,11 @@
 
 塞顿，总机长，*无上专横* <sup>[2](#Mortis-dp-002)</sup>，第一分队队长 <a name="Mortis-dp-002a"></a>
 
-巴萨纽斯，高阶机长，*滔天烈焰* <sup>[3](#Mortis-dp-003)</sup>，第二分队队长 <a name="Mortis-dp-003a></a>
+巴萨纽斯，高阶机长，*滔天烈焰* <sup>[3](#Mortis-dp-003)</sup>，第二分队队长 <a name="Mortis-dp-003a"></a>
 
-克莱门蒂亚，高阶机长，*典范* <sup>[4](#Mortis-dp-004)</sup>，第四分队队长 <a name="Mortis-dp-004a></a>
+克莱门蒂亚，高阶机长，*典范* <sup>[4](#Mortis-dp-004)</sup>，第四分队队长 <a name="Mortis-dp-004a"></a>
 
-特拉考隆，高阶机长，*狂怒女王* <sup>[5](#Mortis-dp-005)</sup>，第六分队队长 <a name="Mortis-dp-005a></a>
+特拉考隆，高阶机长，*狂怒女王* <sup>[5](#Mortis-dp-005)</sup>，第六分队队长 <a name="Mortis-dp-005a"></a>
 
 迪维希娅，副机长，*狂怒女王*
 
@@ -83,7 +83,7 @@
 
 兹塔-贝塔-1，工造士，*狂怒女王*
 
-阿尔瑟萨，机长，*太阳神* <sup>[6](#Mortis-dp-006)</sup>，第七分队队长 <a name="Mortis-dp-006a></a>
+阿尔瑟萨，机长，*太阳神* <sup>[6](#Mortis-dp-006)</sup>，第七分队队长 <a name="Mortis-dp-006a"></a>
 
 圣塔里奥，军团战略联络官
 
@@ -91,29 +91,29 @@
 
 噩兆修会军团
 
-奥拉姆，东隅分会<sup>[7](#Mortis-dp-007)</sup>首席长官 <a name="Mortis-dp-007a></a>
+奥拉姆，东隅分会<sup>[7](#Mortis-dp-007)</sup>首席长官 <a name="Mortis-dp-007a"></a>
 
-卡达米亚，长官，*东隅-厄喀瓮* <sup>[8](#Mortis-dp-008)</sup> <a name="Mortis-dp-008a></a>
+卡达米亚，长官，*东隅-厄喀瓮* <sup>[8](#Mortis-dp-008)</sup> <a name="Mortis-dp-008a"></a>
 
 <br/><br/>
 
 娇阳军团“帝国猎手”
 
-艾莎·阿尼·莫哈娜·维，大团长，帝国猎手主母，*不败神宫* <sup>[9](#Mortis-dp-009)</sup>机长 <a name="Mortis-dp-009a></a>
+艾莎·阿尼·莫哈娜·维，大团长，帝国猎手主母，*不败神宫* <sup>[9](#Mortis-dp-009)</sup>机长 <a name="Mortis-dp-009a"></a>
 
-阿布哈尼·卢斯·莫哈娜，机长，*凶兽* <sup>[10](#Mortis-dp-010)</sup> <a name="Mortis-dp-010a></a>
+阿布哈尼·卢斯·莫哈娜，机长，*凶兽* <sup>[10](#Mortis-dp-010)</sup> <a name="Mortis-dp-010a"></a>
 
 <br/><br/>
 
 维罗尼家族
 
-卡拉多克，贵胄，瑟拉斯图斯级惩罚者骑士*墨利亚* <sup>[11](#Mortis-dp-011)</sup>驾驶员 <a name="Mortis-dp-011a></a>
+卡拉多克，贵胄，瑟拉斯图斯级惩罚者骑士*墨利亚* <sup>[11](#Mortis-dp-011)</sup>驾驶员 <a name="Mortis-dp-011a"></a>
 
-阿卡斯蒂娅，家奴，侍从骑士*厄拉托斯* <sup>[12](#Mortis-dp-012)</sup>驾驶员 <a name="Mortis-dp-012a></a>
+阿卡斯蒂娅，家奴，侍从骑士*厄拉托斯* <sup>[12](#Mortis-dp-012)</sup>驾驶员 <a name="Mortis-dp-012a"></a>
 
-多洛兰，家奴，侍从骑士*库拉洛斯* <sup>[13](#Mortis-dp-013)</sup>驾驶员 <a name="Mortis-dp-013a></a>
+多洛兰，家奴，侍从骑士*库拉洛斯* <sup>[13](#Mortis-dp-013)</sup>驾驶员 <a name="Mortis-dp-013a"></a>
 
-普路同，家奴，侍从骑士*陶玛斯* <sup>[14](#Mortis-dp-014)</sup>*驾驶员 <a name="Mortis-dp-014a></a>
+普路同，家奴，侍从骑士*陶玛斯* <sup>[14](#Mortis-dp-014)</sup>*驾驶员 <a name="Mortis-dp-014a"></a>
 
 <br/><br/>
 
@@ -121,9 +121,9 @@
 
 维索蕾尔，大使，铸造统领代理人
 
-卡兹姆-阿列夫-1<sup>[15](#Mortis-dp-015)</sup>，派往罗格·多恩的贤者特使 <a name="Mortis-dp-015a></a>
+卡兹姆-阿列夫-1<sup>[15](#Mortis-dp-015)</sup>，派往罗格·多恩的贤者特使 <a name="Mortis-dp-015a"></a>
 
-杰隆修斯-奇-拉姆达<sup>[16](#Mortis-dp-016)</sup>，派往烈焰军团的贤者特使 <a name="Mortis-dp-016a></a>
+杰隆修斯-奇-拉姆达<sup>[16](#Mortis-dp-016)</sup>，派往烈焰军团的贤者特使 <a name="Mortis-dp-016a"></a>
 
 <br/><br/>
 
@@ -137,7 +137,7 @@
 
 尼奥拉·苏-卡珊，太阳指挥部参谋，木星舰队前海军上将
 
-纳苏巴，上将，地狱骠骑兵<sup>[17](#Mortis-dp-017)</sup>，碎片堡垒指挥官 <a name="Mortis-dp-017a></a>
+纳苏巴，上将，地狱骠骑兵<sup>[17](#Mortis-dp-017)</sup>，碎片堡垒指挥官 <a name="Mortis-dp-017a"></a>
 
 苏尔科娃，少将，碎片堡垒指挥干部
 
@@ -155,9 +155,9 @@
 
 掌印者马尔卡多，帝国摄政
 
-赫利克·毛尔，政委部<sup>[18](#Mortis-dp-018)</sup>监军<sup>[19](#Mortis-dp-019)</sup> <a name="Mortis-dp-018a></a> <a name="Mortis-dp-019a></a>
+赫利克·毛尔，政委部<sup>[18](#Mortis-dp-018)</sup>监军<sup>[19](#Mortis-dp-019)</sup> <a name="Mortis-dp-018a"></a> <a name="Mortis-dp-019a"></a>
 
-阿尔博恩，骑兵上尉<sup>[20](#Mortis-dp-020)</sup>，皇庭守备军，政委部 <a name="Mortis-dp-020a></a>
+阿尔博恩，骑兵上尉<sup>[20](#Mortis-dp-020)</sup>，皇庭守备军，政委部 <a name="Mortis-dp-020a"></a>
 
 索尔沙，政委部武装部队中尉
 
