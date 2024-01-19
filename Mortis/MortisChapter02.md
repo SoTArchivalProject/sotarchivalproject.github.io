@@ -113,7 +113,7 @@
 <br/><br/>
 
 <div align="center">
-<i>帝国圣域皇庭区，图尔坎 <sup>[25](#Mortis-c02-025)</sup>管区</i> <a name="Mortis-c02-025a"></a>
+<i>帝国圣域皇庭区，图尔坎 <sup>[25](#Mortis-c02-025)</sup>管区 <a name="Mortis-c02-025a"></a></i>
 </div>
 
 帝国圣域皇庭区，图尔坎 <sup>[25](#Mortis-c02-025)</sup>管区 <a name="Mortis-c02-025a"></a>
