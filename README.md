@@ -47,9 +47,9 @@ Please contact us through GitHub issues of this repository should you have furth
 - 《死颅》Mortis <sub>John French, 2021</sub>
     - [本站转载](/Mortis/MortisIndex.md)
 - 《战鹰》Warhawk <sub>Chris Wraight, 2021</sub>
-    - 本站转载(/Warhawk/WarHawkIndex.md)
+    - [本站转载](/Warhawk/WarHawkIndex.md)
 - 《永恒回响》Echos of Eternity <sub>Aaron Dembski-Bowden, 2022</sub>
-    - 本站转载(/Echoes of Eternity/EchoesofEternityIndex.md)
+    - [本站转载](/EchoesofEternity/EchoesofEternityIndex.md)
 - 《伽罗：灰衣骑士》Garro: Knight of Grey <sub>James Swallow, 2023</sub>
     - 本站转载
 - 《终结与死亡 1》The End and the Death I <sub>Dan Abnett, 2023</sub>
