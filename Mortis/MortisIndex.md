@@ -11,7 +11,7 @@
 
 - [登场人物](MortisDramatisPersonae.md)
 
-#第一部分
+#[第一部分](MortisPart01.md)
 
 - [亚空间](MortisWarp01.md)
 
@@ -27,7 +27,7 @@
 
 - [第六章](MortisChapter06.md)
 
-#第二部分
+#[第二部分](MortisPart02.md)
 
 - [亚空间](MortisWarp02.md)
 
@@ -49,7 +49,7 @@
 
 - [第十五章](MortisChapter15.md)
 
-#第三部分
+#[第三部分](MortisPart03.md)
 
 - [亚空间](MortisWarp03.md)
 
