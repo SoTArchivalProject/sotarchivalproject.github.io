@@ -1,26 +1,4 @@
 <div align="center">
-<h1><a href="MortisIndex.md">死颅 Mortis</a></h1>
-</div>
-
-*“睡着了也许还会做梦；嗯，阻碍就在这儿：因为当我们摆脱了这一具朽腐的皮囊以后，在那死亡的睡眠里，究竟将要做些什么梦，那不能不使我们踌躇顾虑。人们甘心久困于患难之中，也就是为了这个缘故。 ”* <sup>[21](#Mortis-wp01-021) <a name="Mortis-wp01-021a"></a></sup>
-
-<div align="right">
-——剧作家莎士比亚，M2
-</div>
-
-<div align="center">
-<h1>第一部分</h1>  
-</div>
-
-<br/><br/>
-
-<div align="center">
-<h1>苏醒</h1>
-</div>
-
-<br/><br/>
-
-<div align="center">
 <h1>亚空间</h1>
 </div>
 
