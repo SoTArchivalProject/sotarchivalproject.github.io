@@ -43,18 +43,21 @@ Please contact us through GitHub issues of this repository should you have furth
 - 《萨特奈恩》Saturnine <sub>Dan Abnett, 2020</sub>
     - 本站转载
 - 《马格努斯之怒》The Fury of Magnus <sub>Graham McNeill, 2020</sub>
-    - 本站转载
+    - [本站转载](/FuryOfMagnus/FuryofMagnusIndex.md)
 - 《死颅》Mortis <sub>John French, 2021</sub>
     - [本站转载](/Mortis/MortisIndex.md)
 - 《战鹰》Warhawk <sub>Chris Wraight, 2021</sub>
     - [本站转载](/Warhawk/WarHawkIndex.md)
-- 《永恒回响》Echos of Eternity <sub>Aaron Dembski-Bowden, 2022</sub>
+- 《永恒的回响》Echos of Eternity <sub>Aaron Dembski-Bowden, 2022</sub>
     - [本站转载](/EchoesofEternity/EchoesofEternityIndex.md)
 - 《伽罗：灰衣骑士》Garro: Knight of Grey <sub>James Swallow, 2023</sub>
     - 本站转载
 - 《终结与死亡 1》The End and the Death I <sub>Dan Abnett, 2023</sub>
+    - [本站转载](/TheEndAndTheDeathVolume1/TheEndAndTheDeathVolume1Index.md)
 - 《终结与死亡 2》The End and the Death II <sub>Dan Abnett, 2023</sub>
-- 《终结与死亡 3》The End and the Death III <sub>Dan Abnett, TBD</sub>
+    - [本站转载](/TheEndAndTheDeathVolume2/TheEndAndTheDeathVolume2Index.md)
+- 《终结与死亡 3》The End and the Death III <sub>Dan Abnett, 2024</sub>
+    - [本站转载](/TheEndAndTheDeathVolume3/TheEndAndTheDeathVolume3Index.md)
 
 另有一则不属于泰拉围城系列，但与该系列密切联系的小说，我们亦计划将其收录于此：
 - 《瓦尔多：帝国之初》Valdor: Birth of the Empire
